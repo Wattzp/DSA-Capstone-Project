@@ -33,6 +33,27 @@ Renamed location column to region for clarity and alignment with business termin
 -Prepared dynamic lookups to calculate bonuses based on department + performance rating.
 
 # DASHBOARD
+![Palmoriadashboard](https://github.com/user-attachments/assets/9b79ea48-4b76-404e-ad6f-7034f58924c7)
+
+## 🎯 Summary Insights:
+- Overall gender balance across departments is impressive
+- Female employees score better in performance ratings
+- South West region draws the highest salary payout
+- Gender pay gap exists, but slightly reversed in favor of females for average salary.
+
+## 🔧 Recommendation:
+1. Gender Equity Audit by Region & Department
+- Investigate hiring, promotion, and pay raise practices
+- Ensure women in high-performing roles are progressing to high-paying regions
+2. Introduce Performance-Based Bonus Enhancement
+- Adjust bonus rates to better reward "Very Good" ratings
+- Consider tiered percentage increases to motivate excellence
+3. Leadership Acceleration for Female Talent
+- Launch mentorship & advancement programs targeting underrepresented departments
+- Track promotion outcomes with quarterly dashboards
+4. Transparency in Pay & Recognition
+- Publish anonymized salary range benchmarks by role and gender
+- Incorporate visual dashboards into HR review processes.
 
 
 
