@@ -20,11 +20,23 @@ Investigate workforce gender distribution across regions and departments, identi
 
 ### 🧹 Data Cleaning & Preparation
 Before analysis could begin, significant preprocessing was required to ensure data quality, consistency, and accuracy. The following steps were carried out:
-1. 🧾 Standardizing Column Names
+1. Standardizing Column Names
 Renamed location column to region for clarity and alignment with business terminology.
+2. Addressed missing entries in gender and department using:
+- Default imputation for key fields
+- Manual corrections from known HR records.
+3. Uniform Data Formatting
+- Salary, rating, and bonus fields converted to proper number formats
+- Categorical entries (e.g., performance ratings, departments) standardized to eliminate typos or mismatched spelling.
+4. Bonus Rule Integration
+- Linked the bonus percentage matrix from your Excel file into Power BI and SQL queries
+-Prepared dynamic lookups to calculate bonuses based on department + performance rating.
 
-ALTER TABLE employees
-RENAME COLUMN location TO region;
+# DASHBOARD
+
+
+
+
 
 
 
