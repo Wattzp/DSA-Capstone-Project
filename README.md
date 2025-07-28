@@ -33,7 +33,8 @@ Renamed location column to region for clarity and alignment with business termin
 -Prepared dynamic lookups to calculate bonuses based on department + performance rating.
 
 # DASHBOARD
-![Palmoriadashboard](https://github.com/user-attachments/assets/9b79ea48-4b76-404e-ad6f-7034f58924c7)
+![Palmoriadata](https://github.com/user-attachments/assets/d34b5433-2e7a-4e63-b1ca-8843ef528114)
+
 
 ## 🎯 Summary Insights:
 - Overall gender balance across departments is impressive
